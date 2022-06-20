@@ -56,9 +56,13 @@ main{
 }
 
 .meme--image {
-    max-width: 100%;
+    
     border-radius: 3px;
     margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .meme--text {
